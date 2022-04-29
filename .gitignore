@@ -1,0 +1,5 @@
+# 忽略test999.html文件
+test999.html
+
+# 忽略test文件夹下所有文件
+test/
